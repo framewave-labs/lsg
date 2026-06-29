@@ -1,13 +1,13 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Quartz 5
+  pageTitle: KX GenStudio — LSG 기획문서
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
   analytics:
-    provider: plausible
-  locale: en-US
-  baseUrl: quartz.jzhao.xyz
+    provider: null
+  locale: ko-KR
+  baseUrl: framewave-labs.github.io/lsg
   ignorePatterns:
     - private
     - templates
@@ -198,8 +198,7 @@ plugins:
     enabled: true
     options:
       links:
-        GitHub: https://github.com/jackyzha0/quartz
-        Discord Community: https://discord.gg/cRFFHYye7t
+        GitHub: https://github.com/framewave-labs/lsg
   - source: github:quartz-community/recent-notes
     enabled: false
   - source: github:quartz-community/spacer
