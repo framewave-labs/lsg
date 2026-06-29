@@ -1,4 +1,6 @@
 .DS_Store
+content/00_아카이브/
+content/07_포트폴리오/
 .gitignore
 node_modules
 public
