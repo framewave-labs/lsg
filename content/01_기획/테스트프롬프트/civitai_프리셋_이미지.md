@@ -28,7 +28,7 @@ summary_target: false
 * 저작권 캐릭터(디즈니·게임 IP 등), 실존 인물 닮은꼴, 부적절한 콘텐츠는 미리 걸러냈습니다.
 * 원본 폴더: `civitai_프리셋_이미지/` (jpg 63개)
 * 각 항목 아래에 이미지를 함께 붙여뒀습니다. 텍스트만으로는 어떤 이미지인지 알기 어려우니 참고하세요.
-* **전체 이미지 파일 구글 드라이브 링크:** **[바로가기](https://drive.google.com/drive/folders/1PW9L84TQRuPQhpJ7cbGwvSTY5s6uz94J?usp=sharing)**
+* **전체 이미지 파일 구글 드라이브 링크:** **[바로가기](https://drive.google.com/drive/folders/15tc99Pmts2-8RWJKuLtM_zmq7dXIQLVw?usp=drive_link)**
 * **상업적 사용 여부: 전건 미확인.** Civitai 라이선스 페이지는 자바스크립트 렌더링이라 자동 조회가 안 됩니다. 목업 용도로만 사용하세요.
 
 ## 1. 왜 메타데이터까지 붙였나
