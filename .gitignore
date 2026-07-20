@@ -2,6 +2,10 @@
 content/00_아카이브/
 content/07_포트폴리오/
 content/01_기획/테스트프롬프트/
+content/01_기획/*
+!content/01_기획/*유즈케이스*
+!content/01_기획/*속성값*
+!content/01_기획/속성값 디자인/
 .gitignore
 node_modules
 public
