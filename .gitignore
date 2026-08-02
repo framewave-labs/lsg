@@ -8,9 +8,9 @@ content/01_기획/*
 !content/01_기획/속성값 디자인/
 # 인수인계 최종본만 예외 처리 (2026-08-02)
 !content/01_기획/2026-08-02_PRD_v2.0.md
-!content/01_기획/2026-08-02_기능명세서_v6.0.md
-!content/01_기획/2026-08-02_IA_v4.0.md
-!content/01_기획/2026-08-02_생성형AI통합엔진_A2_IA_v6.xlsx
+!content/01_기획/2026-08-02_기능명세서_v7.0.md
+!content/01_기획/2026-08-02_IA_v5.0.md
+!content/01_기획/2026-08-02_생성형AI통합엔진_A2_IA_v7.xlsx
 .gitignore
 node_modules
 public
